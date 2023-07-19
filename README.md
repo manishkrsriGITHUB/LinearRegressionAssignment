@@ -22,10 +22,8 @@
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
  
 ## Conclusions
-- Based on the analysis, following are the driving factors behind loan default:
-  loan_amnt, funded_amnt, funded_amnt_inv, int_rate, installment, annual_inc, dti, open_acc, pub_rec, revol_bal, revol_util, total_acc,  total_rec_late_fee, pub_rec_bankruptcies
-- Few additional driver variables:
-    term, home_ownersh
+- Based on the analysis and model prediction following are the independent variables which will be useful to understand the demand dynamics:
+  temp, windspeed, yr, windspeed, season, mnth, weathersit and holiday.
 
 ## Contact
 Created by @manishkrsriGITHUB - feel free to contact me!
