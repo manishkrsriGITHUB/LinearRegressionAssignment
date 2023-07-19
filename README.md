@@ -22,7 +22,7 @@
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
  
 ## Conclusions
-- Based on the analysis and model prediction following are the independent variables which will be useful to understand the demand dynamics:
+- Based on the analysis and the model predictions following are the independent variables which will be useful to understand the demand dynamics:
   temp, windspeed, yr, windspeed, season, mnth, weathersit and holiday.
 
 ## Contact
